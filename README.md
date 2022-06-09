@@ -1,1 +1,4 @@
-# Neural-Networks
+# Neural Networks
+
+- Image recognition
+- 
